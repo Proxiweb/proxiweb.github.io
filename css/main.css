@@ -1,0 +1,22 @@
+h1.page-header {border-bottom: 1px solid gray;}
+.alert-custom {
+    background-repeat: repeat-x;
+    border-color: black;
+}
+.alert-custom p {margin: 0 0 10px;}
+
+li.active a{font-weight: bold;}
+
+.alert-custom p.with-margin-top {margin-top: 20px;}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.navbar-fixed-bottom ul {color: white; margin-top: 10px;}
+
+
+
+
+
